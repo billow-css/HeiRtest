@@ -1,0 +1,10 @@
+D:\HeiResturant\HeiResturant\HeiResturant\bin\Debug\HeiResturant.exe.config
+D:\HeiResturant\HeiResturant\HeiResturant\bin\Debug\HeiResturant.exe
+D:\HeiResturant\HeiResturant\HeiResturant\bin\Debug\HeiResturant.pdb
+D:\HeiResturant\HeiResturant\HeiResturant\obj\Debug\HeiResturant.csproj.AssemblyReference.cache
+D:\HeiResturant\HeiResturant\HeiResturant\obj\Debug\HeiResturant.Forms.LoginForm.resources
+D:\HeiResturant\HeiResturant\HeiResturant\obj\Debug\HeiResturant.Properties.Resources.resources
+D:\HeiResturant\HeiResturant\HeiResturant\obj\Debug\HeiResturant.csproj.GenerateResource.cache
+D:\HeiResturant\HeiResturant\HeiResturant\obj\Debug\HeiResturant.csproj.CoreCompileInputs.cache
+D:\HeiResturant\HeiResturant\HeiResturant\obj\Debug\HeiResturant.exe
+D:\HeiResturant\HeiResturant\HeiResturant\obj\Debug\HeiResturant.pdb
